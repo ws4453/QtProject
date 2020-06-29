@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Capslock">image/Capslock.png</file>
+        <file alias="Capslock_Checked">image/Capslock_Checked.png</file>
+        <file alias="Deletelock">image/Deletelock.png</file>
+        <file alias="Next">image/Next.png</file>
+        <file alias="Previous">image/Previous.png</file>
+    </qresource>
+</RCC>
