@@ -34,8 +34,7 @@ SOURCES += main.cpp\
 
 HEADERS  += MainWidget.h \
     SoftKey/SoftKey.h \
-    SoftKey/SoftKeyWidget.h \
-    Def.h
+    SoftKey/SoftKeyWidget.h
 
 QMAKE_CXXFLAGS += -std=c++0x
 
